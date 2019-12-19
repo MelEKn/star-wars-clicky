@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/star-wars-clicky-game/static/css/main.1c548483.chunk.css",
+    "main.js": "/star-wars-clicky-game/static/js/main.277f75a2.chunk.js",
+    "main.js.map": "/star-wars-clicky-game/static/js/main.277f75a2.chunk.js.map",
+    "runtime-main.js": "/star-wars-clicky-game/static/js/runtime-main.0a6f6ea4.js",
+    "runtime-main.js.map": "/star-wars-clicky-game/static/js/runtime-main.0a6f6ea4.js.map",
+    "static/js/2.adf09205.chunk.js": "/star-wars-clicky-game/static/js/2.adf09205.chunk.js",
+    "static/js/2.adf09205.chunk.js.map": "/star-wars-clicky-game/static/js/2.adf09205.chunk.js.map",
+    "index.html": "/star-wars-clicky-game/index.html",
+    "precache-manifest.ad952494f576c38b3cb3925aab2dfe22.js": "/star-wars-clicky-game/precache-manifest.ad952494f576c38b3cb3925aab2dfe22.js",
+    "service-worker.js": "/star-wars-clicky-game/service-worker.js",
+    "static/css/main.1c548483.chunk.css.map": "/star-wars-clicky-game/static/css/main.1c548483.chunk.css.map",
+    "static/js/2.adf09205.chunk.js.LICENSE": "/star-wars-clicky-game/static/js/2.adf09205.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a6f6ea4.js",
+    "static/js/2.adf09205.chunk.js",
+    "static/css/main.1c548483.chunk.css",
+    "static/js/main.277f75a2.chunk.js"
+  ]
+}
